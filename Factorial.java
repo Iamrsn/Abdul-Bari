@@ -1,4 +1,4 @@
-public class Seven {
+public class Factorial {
 
     // factorial using recursion
     public static int functionRec(int n){
